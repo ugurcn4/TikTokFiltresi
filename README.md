@@ -1,2 +1,2 @@
 # TikTokFiltresi
- Görüntü işleme çalışması. OpenCV kullanılarak TikTok/Instagram Filtesi. 
+ Görüntü işleme çalışması. OpenCV kullanılarak TikTok/Instagram Filtresi. 
